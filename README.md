@@ -12,4 +12,4 @@ Testing evolution of Java 8 :
 - Statistics
 
 
-Status : [![Build Status](https://travis-ci.org/axldlv/java8testing.svg?branch=master)](https://travis-ci.org/axldlv/java8testing)
+Status : [![Build Status](https://travis-ci.org/axeldlv/java8testing.svg?branch=master)](https://travis-ci.org/axeldlv/java8testing)
